@@ -1,0 +1,8 @@
+pip3 install pysocks
+
+py -m pip install pysocks
+
+
+
+
+
